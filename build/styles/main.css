@@ -87,3 +87,12 @@ i.bi {
   color: #eb4d4b;
   background-color: transparent;
 }
+.footer {
+  color: #130f40;
+  border-top: 1px solid #333;
+  bottom: 0;
+  left: 0;
+  height: 40px;
+  width: 100%;
+  position: static;
+}
